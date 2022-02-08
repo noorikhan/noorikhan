@@ -66,10 +66,11 @@
   
 <h3 align="left">Github Status:</h3>
 
-
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=noorikhan&show_icons=true&locale=en" alt="noorikhan" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorikhan&" alt="noorikhan" />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorikhan&show_icons=true&locale=en&layout=compact" alt="noorikhan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorikhan&show_icons=true&locale=en&layout=compact" alt="noorikhan" />
+  </p>
 
