@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Noori Fathima</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=noorikhan&label=Profile%20views&color=0e75b6&style=flat" alt="noorikhan" /> </p>
 
-<image align="right" width=550px height=400px src ="https://nomadicsoftware.com/wp-content/uploads/web-dev-usa.gif">
+<image align="right" width=500px height=400px src ="https://nomadicsoftware.com/wp-content/uploads/web-dev-usa.gif">
 
 <h4>A passionate full Stack developer specialization in MERN stack.</h4>
 
