@@ -4,7 +4,7 @@
 
 <image align="right" width=500px height=400px src ="https://nomadicsoftware.com/wp-content/uploads/web-dev-usa.gif">
 
-<h4>A passionate full Stack developer specialization in MERN stack.Build quality websites and applications with HTML, CSS, JavaScript, React. Passionate about designing creative websites, I love Programming it’s like a game for me. Keen towards learning new technology.</h4>
+<h4>A passionate full Stack developer specialization in MERN stack.Build quality websites and applications with HTML, CSS, JavaScript, React. Passionate about designing creative websites, I love Programming. Keen towards learning new technology.</h4>
 
 
 
