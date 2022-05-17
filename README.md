@@ -4,7 +4,7 @@
 
 <image align="right" width=500px height=400px src ="https://nomadicsoftware.com/wp-content/uploads/web-dev-usa.gif">
 
-<h4>A passionate full Stack developer specialization in MERN stack.Build quality websites and applications with HTML, CSS, JavaScript, React. Passionate about designing creative websites, I love Programming. Keen towards learning new technology.</h4>
+<h4>A passionate Full Stack Developer specialization in MERN stack.Build quality websites and applications with HTML, CSS, JavaScript, React, Mongodb, nodejs, Express. Passionate about designing creative websites, I love Programming. Keen towards learning new technology.</h4>
 
 
 
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
 </p> -->
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning **React** -->
 
 - 📫 How to reach me **noorifathima99@gmail.com**
 
